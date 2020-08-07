@@ -27,20 +27,20 @@
 	display: block;
 	cursor: pointer;
 	text-transform: uppercase;
-	font-size: 12px;
-	font-weight: 700;
+	font-size: 100%;
+	font-weight: 70%;
 	letter-spacing:0.2em;
   }
 
   .menu > .menu-list > li{
 	float: right;
 	position: relative;
-	right: 50px;
+	right: 5%;
   }
   
   .menu > .menu-list > li > a {
 	padding: 20px;
-	margin: 0 5px;
+	margin: 0.5px;
 	background: #000;
   }
 
@@ -61,8 +61,8 @@
   #logo{
 	  position: absolute;
 	  bottom: 94.7%;
-	  left: 30px;
-	  width: 200px;
+	  left: 3%;
+	  width: 11%;
 	  
   }
 
